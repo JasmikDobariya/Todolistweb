@@ -1,0 +1,63 @@
+body {
+  background-image: url('https://res.allmacwallpaper.com/get/Retina-MacBook-Air-13-inch-wallpapers/The-Lake-2560x1600/8479-11.jpg');
+  background-repeat: no-repeat;
+}
+
+.add_div {
+  position: absolute;
+  top: 7px;
+  right: 15px;
+  cursor: pointer;
+}
+
+.input_div {
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+.main_div {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 5px 5px rgb(152, 151, 151)
+}
+
+.dic_div {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.rem_div {
+  border: 1px solid black;
+}
+
+.btn_div {
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: transparent;
+  border: 2px solid cornflowerblue;
+  height: 50px;
+  width: 150px;
+}
+
+.btn_div:hover {
+  background-color: rgb(140, 174, 238);
+}
+
+.edit_div {
+  position: absolute;
+  top: 7px;
+  right: 35px;
+  cursor: pointer;
+}
+
+.delete_div {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  cursor: pointer;
+}
